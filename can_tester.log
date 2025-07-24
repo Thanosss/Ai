@@ -1,0 +1,7 @@
+2025-07-24 14:53:52,692 - modules.security_access_module - INFO - Registered seed-key algorithm for security level 1
+2025-07-24 14:53:52,692 - modules.security_access_module - INFO - Registered seed-key algorithm for security level 2
+2025-07-24 14:53:52,692 - __main__ - INFO - CAN UDS Tester initialized
+2025-07-24 14:55:38,373 - commands.set_command - INFO - Set source diagnostic ID: 0x733
+2025-07-24 14:55:38,373 - commands.set_command - INFO - Set target diagnostic ID: 0x73B
+2025-07-24 14:55:38,373 - commands.set_command - INFO - Diagnostic session saved: session_733_73B
+2025-07-24 14:58:14,536 - __main__ - INFO - CAN UDS Tester exiting

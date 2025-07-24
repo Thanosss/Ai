@@ -1,0 +1,17 @@
+# CAN UDS Tester Requirements
+# Core dependencies for the CAN UDS diagnostic tool
+
+# No external dependencies required for core functionality
+# The tool uses only Python standard library modules:
+# - cmd for interactive shell
+# - logging for logging functionality  
+# - subprocess for system command execution
+# - argparse for command line argument parsing
+# - hashlib and secrets for security access algorithms
+# - time for timestamps
+# - typing for type hints
+# - enum for enumerations
+
+# Optional dependencies for enhanced functionality:
+# python-can>=4.0.0  # For actual CAN interface support
+# isotp>=1.5         # For ISO-TP protocol implementation
