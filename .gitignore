@@ -1,0 +1,18 @@
+# Compiled binaries
+josephus
+*.exe
+*.o
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CodeQL
+_codeql_detected_source_root
